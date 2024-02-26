@@ -28,5 +28,6 @@ print(x)
 x = int(x)
 print(type(x))
 # z = x+y
-
+print(90+20)
+print(90.20+22.337)
 # print(z)
